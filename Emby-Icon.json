@@ -1,16 +1,16 @@
 {
-          "name": "罐罐的图标",
-          "author": "macr4711",
-          "updateTime": "2026-10-29",
-          "note": "自用图标库",
-          "icons": [
-                      {
-                                    "name": "Bilibili",
-                                    "url": "https://cdn.jsdelivr.net/gh/macr4711/EmbyIconLib@main/Emby/Bilibili.jpg"
-                      },
-                      {
-                                    "name": "Hongguo",
-                                    "url": "https://cdn.jsdelivr.net/gh/macr4711/EmbyIconLib@main/Emby/Hongguo.jpg"
-                      }
-          ]
+            "name": "罐罐的图标",
+            "author": "罐罐",
+            "updateTime": "2026年10月",
+            "note": "作者：罐罐 | 更新时间：2026年10月",
+            "icons": [
+                          {
+                                          "name": "Bilibili",
+                                          "url": "https://cdn.jsdelivr.net/gh/macr4711/EmbyIconLib@main/Emby/Bilibili.jpg"
+                          },
+                          {
+                                          "name": "Hongguo",
+                                          "url": "https://cdn.jsdelivr.net/gh/macr4711/EmbyIconLib@main/Emby/Hongguo.jpg"
+                          }
+            ]
 }
