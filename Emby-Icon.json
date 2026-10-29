@@ -1,0 +1,20 @@
+{
+    "name": "我的Emby图标库",
+    "author": "macr4711",
+    "updateTime": "2026-10-29",
+    "note": "自用图标库",
+    "icons": [
+          {
+                  "name": "Movies",
+                  "url": "https://cdn.jsdelivr.net/gh/macr4711/EmbyIconLib@main/Emby/Movies.png"
+          },
+          {
+                  "name": "TV",
+                  "url": "https://cdn.jsdelivr.net/gh/macr4711/EmbyIconLib@main/Emby/TV.png"
+          },
+          {
+                  "name": "Music",
+                  "url": "https://cdn.jsdelivr.net/gh/macr4711/EmbyIconLib@main/Emby/Music.png"
+          }
+    ]
+}
