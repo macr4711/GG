@@ -1,20 +1,16 @@
 {
-        "name": "罐罐的图标",
-        "author": "macr4711",
-        "updateTime": "2026-10-29",
-        "note": "自用图标库",
-        "icons": [
-                  {
-                              "name": "Movies",
-                              "url": "https://cdn.jsdelivr.net/gh/macr4711/EmbyIconLib@main/Emby/Movies.png"
-                  },
-                  {
-                              "name": "TV",
-                              "url": "https://cdn.jsdelivr.net/gh/macr4711/EmbyIconLib@main/Emby/TV.png"
-                  },
-                  {
-                              "name": "Music",
-                              "url": "https://cdn.jsdelivr.net/gh/macr4711/EmbyIconLib@main/Emby/Music.png"
-                  }
-        ]
+          "name": "罐罐的图标",
+          "author": "macr4711",
+          "updateTime": "2026-10-29",
+          "note": "自用图标库",
+          "icons": [
+                      {
+                                    "name": "Bilibili",
+                                    "url": "https://cdn.jsdelivr.net/gh/macr4711/EmbyIconLib@main/Emby/Bilibili.jpg"
+                      },
+                      {
+                                    "name": "Hongguo",
+                                    "url": "https://cdn.jsdelivr.net/gh/macr4711/EmbyIconLib@main/Emby/Hongguo.jpg"
+                      }
+          ]
 }
