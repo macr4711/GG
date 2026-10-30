@@ -1,34 +1,34 @@
 {
-      "name": "罐罐的图标",
-      "description": "作者：罐罐｜更新时间：2026年10月｜自用图标库",
-      "icons": [
-              {
-                        "name": "Bilibili",
-                        "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/Bilibili.jpg"
-              },
-              {
-                        "name": "Hongguo",
-                        "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/Hongguo.jpg"
-              },
-              {
-                        "name": "G1",
-                        "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G1.svg"
-              },
-              {
-                        "name": "G2",
-                        "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G2.svg"
-              },
-              {
-                        "name": "G3",
-                        "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G3.svg"
-              },
-              {
-                        "name": "G4",
-                        "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G4.svg"
-              },
-              {
-                        "name": "G5",
-                        "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G5.svg"
-              }
-      ]
+        "name": "罐罐的图标",
+        "description": "作者：罐罐｜更新时间：2026年10月｜自用图标库",
+        "icons": [
+                  {
+                              "name": "Bilibili",
+                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/Bilibili.jpg"
+                  },
+                  {
+                              "name": "Hongguo",
+                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/Hongguo.jpg"
+                  },
+                  {
+                              "name": "G1",
+                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G1.png"
+                  },
+                  {
+                              "name": "G2",
+                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G2.png"
+                  },
+                  {
+                              "name": "G3",
+                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G3.png"
+                  },
+                  {
+                              "name": "G4",
+                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G4.png"
+                  },
+                  {
+                              "name": "G5",
+                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G5.png"
+                  }
+        ]
 }
