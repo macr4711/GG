@@ -1,34 +1,54 @@
 {
-        "name": "罐罐的图标",
-        "description": "作者：罐罐｜更新时间：2026年10月｜自用图标库",
-        "icons": [
-                  {
-                              "name": "Bilibili",
-                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/Bilibili.jpg"
-                  },
-                  {
-                              "name": "Hongguo",
-                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/Hongguo.jpg"
-                  },
-                  {
-                              "name": "G1",
-                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G1.png"
-                  },
-                  {
-                              "name": "G2",
-                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G2.png"
-                  },
-                  {
-                              "name": "G3",
-                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G3.png"
-                  },
-                  {
-                              "name": "G4",
-                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G4.png"
-                  },
-                  {
-                              "name": "G5",
-                              "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G5.png"
-                  }
-        ]
+          "name": "罐罐的图标",
+          "description": "作者：罐罐｜更新时间：2026年10月｜自用图标库",
+          "icons": [
+                      {
+                                    "name": "Bilibili",
+                                    "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/Bilibili.jpg"
+                      },
+                      {
+                                    "name": "Hongguo",
+                                    "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/Hongguo.jpg"
+                      },
+                      {
+                                    "name": "G1",
+                                    "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G1.png"
+                      },
+                      {
+                                    "name": "G2",
+                                    "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G2.png"
+                      },
+                      {
+                                    "name": "G3",
+                                    "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G3.png"
+                      },
+                      {
+                                    "name": "G4",
+                                    "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G4.png"
+                      },
+                      {
+                                    "name": "G5",
+                                    "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G5.png"
+                      },
+                      {
+                                    "name": "G6",
+                                    "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G6.png"
+                      },
+                      {
+                                    "name": "G7",
+                                    "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G7.png"
+                      },
+                      {
+                                    "name": "G8",
+                                    "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G8.png"
+                      },
+                      {
+                                    "name": "G9",
+                                    "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G9.png"
+                      },
+                      {
+                                    "name": "G10",
+                                    "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/G10.png"
+                      }
+          ]
 }
