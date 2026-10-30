@@ -1,5 +1,14 @@
 {
   "name": "罐罐的图标",
   "description": "作者：罐罐｜更新时间：2026年10月30日｜自用图标库",
-  "icons": []
+  "icons": [
+    {"name": "BiLiBiLi (1)", "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/BiLiBiLi (1).png"},
+    {"name": "BiLiBiLi (2)", "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/BiLiBiLi (2).png"},
+    {"name": "BiLiBiLi (3)", "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/BiLiBiLi (3).png"},
+    {"name": "BiLiBiLi (4)", "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/BiLiBiLi (4).png"},
+    {"name": "Emby (1)", "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/Emby (1).png"},
+    {"name": "Emby (2)", "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/Emby (2).png"},
+    {"name": "Emby (3)", "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/Emby (3).png"},
+    {"name": "Emby (4)", "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/Emby (4).png"}
+  ]
 }
