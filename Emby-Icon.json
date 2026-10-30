@@ -1,14 +1,18 @@
 {
-              "name": "罐罐的图标",
-              "description": "作者：罐罐｜更新时间：2026年10月｜自用图标库",
-              "icons": [
-                              {
-                                                "name": "Bilibili",
-                                                "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/Bilibili.jpg"
-                              },
-                              {
-                                                "name": "Hongguo",
-                                                "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/Hongguo.jpg"
-                              }
-              ]
+    "name": "罐罐的图标",
+    "description": "作者：罐罐｜更新时间：2026年10月｜自用图标库",
+    "icons": [
+          {
+                  "name": "Bilibili",
+                  "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/Bilibili.jpg"
+          },
+          {
+                  "name": "Hongguo",
+                  "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/Hongguo.jpg"
+          },
+          {
+                  "name": "Sprite",
+                  "url": "https://raw.githubusercontent.com/macr4711/EmbyIconLib/main/Emby/icons-sprite.svg"
+          }
+    ]
 }
