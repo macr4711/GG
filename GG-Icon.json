@@ -1,11 +1,7 @@
 {
   "name": "罐罐的图标",
-  "description": "作者：罐罐｜更新时间：2026年11月10日｜自用图标库",
+  "description": "作者：罐罐｜更新时间：2026年11月14日｜自用图标库",
   "icons": [
-    {
-      "name": "115网盘-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_115网盘-1.png"
-    },
     {
       "name": "115网盘-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_115网盘-2.png"
@@ -17,10 +13,6 @@
     {
       "name": "115网盘-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_115网盘-4.png"
-    },
-    {
-      "name": "APTV-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_APTV-1.png"
     },
     {
       "name": "APTV-2",
@@ -35,10 +27,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_APTV-4.png"
     },
     {
-      "name": "AV-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_AV-1.png"
-    },
-    {
       "name": "AV-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_AV-2.png"
     },
@@ -49,10 +37,6 @@
     {
       "name": "AV-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_AV-4.png"
-    },
-    {
-      "name": "BL-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_BL-1.png"
     },
     {
       "name": "BL-2",
@@ -67,10 +51,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_BL-4.png"
     },
     {
-      "name": "BiLiBiLi-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_BiLiBiLi-1.png"
-    },
-    {
       "name": "BiLiBiLi-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_BiLiBiLi-2.png"
     },
@@ -81,10 +61,6 @@
     {
       "name": "BiLiBiLi-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_BiLiBiLi-4.png"
-    },
-    {
-      "name": "Emby-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_Emby-1.png"
     },
     {
       "name": "Emby-2",
@@ -99,10 +75,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_Emby-4.png"
     },
     {
-      "name": "GL-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_GL-1.png"
-    },
-    {
       "name": "GL-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_GL-2.png"
     },
@@ -113,10 +85,6 @@
     {
       "name": "GL-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_GL-4.png"
-    },
-    {
-      "name": "Jellfyfin-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_Jellfyfin-1.png"
     },
     {
       "name": "Jellfyfin-2",
@@ -131,10 +99,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_Jellfyfin-4.png"
     },
     {
-      "name": "MaKaBaKa-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_MaKaBaKa-1.png"
-    },
-    {
       "name": "MaKaBaKa-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_MaKaBaKa-2.png"
     },
@@ -145,10 +109,6 @@
     {
       "name": "MaKaBaKa-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_MaKaBaKa-4.png"
-    },
-    {
-      "name": "QQ音乐-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_QQ音乐-1.png"
     },
     {
       "name": "QQ音乐-2",
@@ -163,10 +123,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_QQ音乐-4.png"
     },
     {
-      "name": "Rex-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_Rex-1.png"
-    },
-    {
       "name": "Rex-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_Rex-2.png"
     },
@@ -177,10 +133,6 @@
     {
       "name": "Rex-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_Rex-4.png"
-    },
-    {
-      "name": "YouTube-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_YouTube-1.png"
     },
     {
       "name": "YouTube-2",
@@ -195,10 +147,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_YouTube-4.png"
     },
     {
-      "name": "优酷视频-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_优酷视频-1.png"
-    },
-    {
       "name": "优酷视频-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_优酷视频-2.png"
     },
@@ -209,10 +157,6 @@
     {
       "name": "优酷视频-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_优酷视频-4.png"
-    },
-    {
-      "name": "儿童教育-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_儿童教育-1.png"
     },
     {
       "name": "儿童教育-2",
@@ -227,10 +171,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_儿童教育-4.png"
     },
     {
-      "name": "光鸭网盘-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_光鸭网盘-1.png"
-    },
-    {
       "name": "光鸭网盘-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_光鸭网盘-2.png"
     },
@@ -241,10 +181,6 @@
     {
       "name": "光鸭网盘-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_光鸭网盘-4.png"
-    },
-    {
-      "name": "夸克网盘-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_夸克网盘-1.png"
     },
     {
       "name": "夸克网盘-2",
@@ -259,10 +195,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_夸克网盘-4.png"
     },
     {
-      "name": "奈飞-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_奈飞-1.png"
-    },
-    {
       "name": "奈飞-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_奈飞-2.png"
     },
@@ -273,10 +205,6 @@
     {
       "name": "奈飞-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_奈飞-4.png"
-    },
-    {
-      "name": "快手-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_快手-1.png"
     },
     {
       "name": "快手-2",
@@ -291,10 +219,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_快手-4.png"
     },
     {
-      "name": "抖音-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_抖音-1.png"
-    },
-    {
       "name": "抖音-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_抖音-2.png"
     },
@@ -305,10 +229,6 @@
     {
       "name": "抖音-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_抖音-4.png"
-    },
-    {
-      "name": "爱奇艺-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_爱奇艺-1.png"
     },
     {
       "name": "爱奇艺-2",
@@ -323,10 +243,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_爱奇艺-4.png"
     },
     {
-      "name": "猫源-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_猫源-1.png"
-    },
-    {
       "name": "猫源-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_猫源-2.png"
     },
@@ -337,10 +253,6 @@
     {
       "name": "猫源-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_猫源-4.png"
-    },
-    {
-      "name": "百度云网盘-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_百度云网盘-1.png"
     },
     {
       "name": "百度云网盘-2",
@@ -355,10 +267,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_百度云网盘-4.png"
     },
     {
-      "name": "直播 live-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_直播 live-1.png"
-    },
-    {
       "name": "直播 live-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_直播 live-2.png"
     },
@@ -369,10 +277,6 @@
     {
       "name": "直播 live-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_直播 live-4.png"
-    },
-    {
-      "name": "移动云盘-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_移动云盘-1.png"
     },
     {
       "name": "移动云盘-2",
@@ -387,10 +291,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_移动云盘-4.png"
     },
     {
-      "name": "红果短剧-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_红果短剧-1.png"
-    },
-    {
       "name": "红果短剧-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_红果短剧-2.png"
     },
@@ -401,10 +301,6 @@
     {
       "name": "红果短剧-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_红果短剧-4.png"
-    },
-    {
-      "name": "网易云-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_网易云-1.png"
     },
     {
       "name": "网易云-2",
@@ -419,10 +315,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_网易云-4.png"
     },
     {
-      "name": "腾讯视频-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_腾讯视频-1.png"
-    },
-    {
       "name": "腾讯视频-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_腾讯视频-2.png"
     },
@@ -433,10 +325,6 @@
     {
       "name": "腾讯视频-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_腾讯视频-4.png"
-    },
-    {
-      "name": "芒果TV-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_芒果TV-1.png"
     },
     {
       "name": "芒果TV-2",
@@ -451,10 +339,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_芒果TV-4.png"
     },
     {
-      "name": "虎牙直播-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_虎牙直播-1.png"
-    },
-    {
       "name": "虎牙直播-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_虎牙直播-2.png"
     },
@@ -465,10 +349,6 @@
     {
       "name": "虎牙直播-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_虎牙直播-4.png"
-    },
-    {
-      "name": "迅雷网盘-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_迅雷网盘-1.png"
     },
     {
       "name": "迅雷网盘-2",
@@ -483,10 +363,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_迅雷网盘-4.png"
     },
     {
-      "name": "酷我音乐-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_酷我音乐-1.png"
-    },
-    {
       "name": "酷我音乐-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_酷我音乐-2.png"
     },
@@ -497,10 +373,6 @@
     {
       "name": "酷我音乐-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_酷我音乐-4.png"
-    },
-    {
-      "name": "酷狗音乐-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_酷狗音乐-1.png"
     },
     {
       "name": "酷狗音乐-2",
@@ -515,10 +387,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_酷狗音乐-4.png"
     },
     {
-      "name": "阿里云盘-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_阿里云盘-1.png"
-    },
-    {
       "name": "阿里云盘-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_阿里云盘-2.png"
     },
@@ -529,10 +397,6 @@
     {
       "name": "阿里云盘-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_阿里云盘-4.png"
-    },
-    {
-      "name": "音乐-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_音乐-1.png"
     },
     {
       "name": "音乐-2",
@@ -547,10 +411,6 @@
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_音乐-4.png"
     },
     {
-      "name": "黄果短剧-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_黄果短剧-1.png"
-    },
-    {
       "name": "黄果短剧-2",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_黄果短剧-2.png"
     },
@@ -561,10 +421,6 @@
     {
       "name": "黄果短剧-4",
       "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_黄果短剧-4.png"
-    },
-    {
-      "name": "黄豆魔改-1",
-      "url": "https://raw.githubusercontent.com/macr4711/GG/main/GG/GG_黄豆魔改-1.png"
     },
     {
       "name": "黄豆魔改-2",
